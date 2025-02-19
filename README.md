@@ -8,6 +8,14 @@ Since then, I have worked with more complex machine learning tools and larger co
 
 # Takeaways
 
+**Structured Experimentation**: Despite my limited background at the time, I designed a clear and structured experiment with well-defined independent and dependent variables, controls, and reproducibility.
+
+**Self-Learning**: The project pushed me to self-learn important machine learning tools and techniques, reinforcing my technical skills and passion for research.
+
+**Robust Testing**: Iteratively training the model 200 times added robustness to my analysis and underscored the importance of thorough testing in experimental design.
+
+**Ethical Inquiry**: Delving into ethical questions about bias in AI has had a lasting impact, guiding my continued interest in the intersection of social justice and technology. 
+
 **Limited Scope**: Testing only one demographic factor—gender—restricted the scope of my findings. Exploring additional variables, like race or socioeconomic status, could have offered deeper insights into bias.
 
 **Model Simplicity**: Relying solely on a simple linear regression model might have constrained my ability to capture more nuanced patterns. More complex models could yield a better understanding of bias.
@@ -17,13 +25,7 @@ Since then, I have worked with more complex machine learning tools and larger co
 **Lack of Mentorship**: Working largely in isolation without external mentorship limited my access to broader feedback, which might have enriched the project's depth.
 Strengths
 
-**Structured Experimentation**: Despite my limited background at the time, I designed a clear and structured experiment with well-defined independent and dependent variables, controls, and reproducibility.
 
-**Self-Learning**: The project pushed me to self-learn important machine learning tools and techniques, reinforcing my technical skills and passion for research.
-
-**Robust Testing**: Iteratively training the model 200 times added robustness to my analysis and underscored the importance of thorough testing in experimental design.
-
-**Ethical Inquiry**: Delving into ethical questions about bias in AI has had a lasting impact, guiding my continued interest in the intersection of social justice and technology.
 
 
 
