@@ -3,7 +3,8 @@ https://docs.google.com/document/d/1dINeujuenj3vVN7CHoo9zco3psknCV6OHU6NEHZTJFA/
 
 The experiment aimed to investigate whether including demographic information—specifically gender—in the training data of a machine learning model impacts its ability to predict student final grades. In doing so, it explores issues of bias and fairness in AI, questioning if such data is necessary for accurate predictions and highlighting the ethical implications of incorporating demographic factors in algorithmic decision-making.
 
-When I independently conducted this experiment, it was one of my first introductions to machine learning and research. Since then, I have worked with more complex machine learning tools and larger codebases in labs. Below are my learnings and takeaways from when I conducted this experiment.
+***When I independently conducted this experiment, it was one of my first introductions to machine learning and research. 
+Since then, I have worked with more complex machine learning tools and larger codebases in labs. Below are my learnings and takeaways from when I conducted this experiment.***
 
 # Takeaways
 
