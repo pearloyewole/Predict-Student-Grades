@@ -6,7 +6,7 @@ The experiment aimed to investigate whether including demographic information—
 ***When I independently conducted this experiment, it was one of my first introductions to machine learning and research. 
 Since then, I have worked with more complex machine learning tools and larger codebases in labs. Below are my learnings and takeaways from when I conducted this experiment.***
 
-# Takeaways
+# Takeaways (Strengths + Weaknesses)
 
 **Structured Experimentation**: Despite my limited background at the time, I designed a clear and structured experiment with well-defined independent and dependent variables, controls, and reproducibility.
 
@@ -23,7 +23,6 @@ Since then, I have worked with more complex machine learning tools and larger co
 **Dataset and Validation**: The relatively small dataset and the absence of advanced cross-validation methods may have affected the statistical significance and reliability of the results.
 
 **Lack of Mentorship**: Working largely in isolation without external mentorship limited my access to broader feedback, which might have enriched the project's depth.
-Strengths
 
 
 
